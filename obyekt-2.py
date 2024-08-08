@@ -12,7 +12,8 @@ def test(x):
     q = []
     t = []
     n = []
-    while x != 0:
+    k = 1
+    while k <= x:
         tas, en, uz = get_word()
         if tas in q:
             continue
@@ -20,24 +21,29 @@ def test(x):
         if j in words.keys() or j in words.values():
             if j == en:
                 t.append(tas)
+                print(k)
                 print("To'g'ri\n")
             elif j == uz:
                 t.append(tas)
+                print(k)
                 print("To'g'ri\n")
             elif j != en:
                 n.append(tas)
+                print(k)
                 print("Nato'g'ri\n")
             else:
                 n.append(tas)
+                print(k)
                 print("Nato'g'ri\n")
         else:
             n.append(tas)
+            print(k)
             print("Nato'g'ri\n")
-        x -= 1
+        k += 1
         q.append(tas)
     otvet = f"Siz {len(t)}ta to'g'ri {len(n)}ta nato'g'ri javob topdingiz"
     return otvet
-e = test(120)
+e = test(312)
 print(e)
         
         
