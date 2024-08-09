@@ -145,7 +145,7 @@ words = {
     "boring":"zerikarli",
     "dry":"quruq",
     "soft":"yumshoq",
-    "weak":"zaif,kuchsiz",
+    "weak":"zaif, kuchsiz",
     "stupid":"ahmoq",
     "difficult":"qiyin",
     "narrow":"tor",
