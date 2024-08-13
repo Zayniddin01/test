@@ -1,9 +1,9 @@
-from dictionary import words
+from dictionary import words, new_words
 import random
 
 
 def get_word():
-    keys, values = random.choice(list(words.items()))
+    keys, values = random.choice(list(new_words.items()))
     tas = [keys, values]
     t = random.choice(list(tas))
     return t, keys, values
@@ -18,7 +18,7 @@ def test(x):
         if tas in q:
             continue
         j = input(f"{tas}: ")
-        if j in words.keys() or j in words.values():
+        if j in new_words.keys() or j in new_words.values():
             if j == en:
                 t.append(tas)
                 print(k)
