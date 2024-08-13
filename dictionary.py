@@ -160,4 +160,14 @@ words = {
     "dull":"o'tmas",
     }
 
-print(len(words))
+new_words = {
+    "sentence":"gap, jumla",
+    "tonight":"bugun kechqurun",
+    "world":"dunyo, jahon",
+    "cup":"kubok, piyola",
+    "action":"say-harakat",
+    "event":"voqea, hodisa",
+    "used":"ishlatilgan",
+    "person":"odam",
+    
+}
