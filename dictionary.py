@@ -212,4 +212,16 @@ new_words = {
     "skirts":"yubkalar",
     "colourful":"rang-barang",
     "designer":"dizayner",
+    "hungry":"och qogan",
+    "thirsty":"chanqagan",
+    "tired":"charchagan",
+    "bored":"zerikkan",
+    "angry":"jaxli chiqqan",
+    "ill":"kasal",
+    "interested":"qiziqmoq",
+    "scared/afraid":"qo'rqqan",
+    "surprised":"hayratlanmoq",
+    "unhappy":"hafa",
+    "sick":"kasal",
+    "something":"biror narsa"
 }

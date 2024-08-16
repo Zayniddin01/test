@@ -43,7 +43,7 @@ def test(x):
         q.append(tas)
     otvet = f"Siz {len(t)}ta to'g'ri {len(n)}ta nato'g'ri javob topdingiz"
     return otvet
-e = test(100)
+e = test(114)
 print(e)
         
         
