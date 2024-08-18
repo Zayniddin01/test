@@ -186,7 +186,7 @@ new_words = {
     "chair":"stul",
     "gift":"sovg'a",
     "armchair":"kreslo",
-    "cortain":"parda",
+    "curtain":"parda",
     "things":"narsalar",
     "sunglasses":"ko'zoynak",
     "about":"haqida",
@@ -223,5 +223,17 @@ new_words = {
     "surprised":"hayratlanmoq",
     "unhappy":"hafa",
     "sick":"kasal",
-    "something":"biror narsa"
+    "something":"biror narsa",
+    "basket":"savat, savatcha",
+    "laundry":"kir, kirlar",
+    "tight":"mustahkam",
+    "squeeze":"siqish, qisish, ezish",
+    "but":"ammo, lekin, biroq",
+    "couch":"divan",
+    "peek":"ko'z tushmoq, qaramoq",
+    "under":"tagiga, tagida",
+    "bed":"krovat, yotoq",
+    "over":"yuqorida, tepada",
+    "box":"quti",
+    "lid":"qopqoq"
 }
